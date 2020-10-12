@@ -1,0 +1,61 @@
+body {
+    width: 90%;
+    margin: auto;
+    padding-top: 1.6em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+#word {
+    font-size: 12em;
+    font-weight: bolder;
+    margin: 0;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+button {
+    height: 60px;
+    width: 20%;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.blue {
+    color: blue;
+}
+
+.pink {
+    color: darkmagenta;
+}
+
+.brown {
+    color: saddlebrown;
+}
+
+.black {
+    color: black;
+}
+
+.orange {
+    color: orangered;
+}
+
+.purple {
+    color: purple;
+}
